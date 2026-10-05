@@ -1,6 +1,4 @@
-<h1 style={
-  color: "red"
-}>hi im MiLad Beheshti!</h1>
+<h1 align="center">Hi🤞 im MiLad Beheshti!</h1>
 
 <h3>Full Stack Developer...</h3>
 <h4>im a full stack developer focused on building modern and scalable web applications.</h4>
