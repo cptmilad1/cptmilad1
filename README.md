@@ -18,15 +18,20 @@
       <em>ReactJS</em><br/>
       <em>Tailwindcss</em><br/>
       <em>GSAP</em><br/>
-      <em>AOS</em></td>
-    <td>NodeJS<br/>
-      Express<br/>
-      Rest API<br/>
-      JWT and Authorization
+      <em>AOS</em>
     </td>
-    <td>PostgreSQL<br/>
-      MongoDB</td>
-    <td>NextJS<br/>
+    <td>
+      <em>NodeJS</em><br/>
+      <em>Express</em><br/>
+      <em>Rest API</em><br/>
+      <em>JWT and Authorization</em>
+    </td>
+    <td>
+      <em>PostgreSQL</em><br/>
+      <em>MongoDB</em>
+    </td>
+    <td>
+      <em>NextJS</em><br/>
       Flutter<br/>
       ThreeJS<br/>
       Docker<br/>
