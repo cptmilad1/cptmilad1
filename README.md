@@ -12,13 +12,13 @@
     <th>Learning</th>
   </tr>
   <tr>
-    <td>HTML<br/>
-      CSS<br/>
-      JS<br/>
-      ReactJS<br/>
-      Tailwindcss<br/>
-      GSAP<br/>
-      AOS</td>
+    <td><em>HTML</em><br/>
+      <em>CSS</em><br/>
+      <em>JS</em><br/>
+      <em>ReactJS</em><br/>
+      <em>Tailwindcss</em><br/>
+      <em>GSAP</em><br/>
+      <em>AOS</em></td>
     <td>NodeJS<br/>
       Express<br/>
       Rest API<br/>
