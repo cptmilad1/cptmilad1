@@ -4,7 +4,7 @@
 <h4>im a full stack developer focused on building modern and scalable web applications.</h4>
 
 <h2>Tech Stack:</h2>
-<table width="100%">
+<table width="100%" align="center">
   <tr width="100%">
     <th>FRONTEND</th>
     <th>BACKEND</th>
@@ -21,7 +21,9 @@
       AOS</td>
     <td>NodeJS<br/>
       Express<br/>
-      Rest API</td>
+      Rest API<br/>
+      JWT and Authorization
+    </td>
     <td>PostgreSQL<br/>
       MongoDB</td>
     <td>NextJS<br/>
