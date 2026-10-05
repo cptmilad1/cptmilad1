@@ -4,7 +4,7 @@
 <h4>im a full stack developer focused on building modern and scalable web applications.</h4>
 
 <h2>Tech Stack:</h2>
-<table>
+<table width="100">
   <tr>
     <th>FRONTEND</th>
     <th>BACKEND</th>
