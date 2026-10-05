@@ -12,9 +12,22 @@
     <th>Learning</th>
   </tr>
   <tr>
-    <td>HTML | CSS | JS | ReactJS | Tailwindcss | GSAP | AOS</td>
-    <td>NodeJS | Express | Rest API</td>
-    <td>PostgreSQL | MongoDB</td>
-    <td>NextJS | Flutter | ThreeJS | Docker | Advanced BE Dev...</td>
+    <td>HTML<br/>
+      CSS<br/>
+      JS<br/>
+      ReactJS<br/>
+      Tailwindcss<br/>
+      GSAP<br/>
+      AOS</td>
+    <td>NodeJS<br/>
+      Express<br/>
+      Rest API</td>
+    <td>PostgreSQL<br/>
+      MongoDB</td>
+    <td>NextJS<br/>
+      Flutter<br/>
+      ThreeJS<br/>
+      Docker<br/>
+      Advanced BE Dev...</td>
   </tr>
 </table>
